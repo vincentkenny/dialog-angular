@@ -1,0 +1,25 @@
+/* You can add global styles to this file, and also import other style files */
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 20px;
+    height: 2000px;
+}
+nav {
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #ddd;
+    
+    
+}
+nav a {
+    margin-right: 8px;
+}
+input[type="text"] {
+    display:block;
+    width: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+    font-weight: normal;
+    margin-top: 0;
+}
